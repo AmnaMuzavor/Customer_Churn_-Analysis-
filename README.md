@@ -114,10 +114,10 @@ Use age-group and customer insights  for more targeted marketing.
 📂 Project Structure
 
 
+```text
 Customer-Shopping-Behavior-Analysis/
-
-data/
-
+│
+├── data/
 │   └── customer_shopping_behavior.csv
 │
 ├── python/
@@ -133,6 +133,7 @@ data/
 │   └── Customer Shopping Behavior Analysis.pdf
 │
 └── README.md
+```
 
 ▶️ How to Run
 
