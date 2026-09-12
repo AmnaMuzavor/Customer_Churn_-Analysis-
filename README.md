@@ -119,7 +119,6 @@ Customer-Shopping-Behavior-Analysis/
 data/
 
 │   └── customer_shopping_behavior.csv
-
 │
 ├── python/
 │   └── data_analysis.ipynb
