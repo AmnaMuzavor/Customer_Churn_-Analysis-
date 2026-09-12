@@ -115,9 +115,11 @@ Use age-group and customer insights  for more targeted marketing.
 
 
 Customer-Shopping-Behavior-Analysis/
-│
-├── data/
+
+data/
+
 │   └── customer_shopping_behavior.csv
+
 │
 ├── python/
 │   └── data_analysis.ipynb
